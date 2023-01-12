@@ -1,5 +1,6 @@
 # 💫 About Me:
-Desarrollador de Software • GCS Consultores<br><br>Interés en el desarrollo tecnológico, capaz de trabajar y adaptarse a las tecnologías emergentes que <br>propongan soluciones reales a distintos objetivos. <br>Experiencia en el desarrollo de aplicaciones mediante el uso e integración de distintos marcos de trabajo <br>así como la implementación y despliegue haciendo uso de metodologías de software con experiencia <br>profesional.
+Software Developer • GCS Consultants<br><br>Interest in technological development through learning and<br>adapting emerging technologies to propose real solutions <br>to different objectives.<br>Experience in the development of applications through the<br>integration of different frameworks as well as the <br>implementation and deployment using software methodologies<br>with professional experience.
+
 
 
 ## 🌐 Socials:
